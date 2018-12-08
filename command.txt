@@ -1,0 +1,1 @@
+salt-call event.fire_master {data:demo} cookbook/test
